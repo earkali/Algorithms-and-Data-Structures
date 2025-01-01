@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-int sayi; // Declare sayi as a global variable
+int sayi;
 int sayac1 = 0, sayac2 = 0;
 
 int input();
