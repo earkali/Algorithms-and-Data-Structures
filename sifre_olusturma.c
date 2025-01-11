@@ -25,23 +25,23 @@ int input() {
 
 int secici() {
     for (int i = basamak; i > 0; i--) {
-        secim = rand() % 3;
+        secim = rand() % 5;
         switch (secim) {
             case 0:
                 random = rand() % 14 + 33;
-            break;
+                break;
             case 1:
                 random = rand() % 10 + 48;
-            break;
+                break;
             case 2:
                 random = rand() % 7 + 58;
-            break;
+                break;
             case 3:
                 random = rand() % 26 + 65;
-            break;
+                break;
             case 4:
                 random = rand() % 26 + 97;
-            break;
+                break;
         }
         printf("%c", random);
     }
