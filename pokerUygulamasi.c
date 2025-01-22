@@ -3,7 +3,7 @@
 #include <time.h>
 
 int kartsecim() {
-    return rand() % 13 + 1; // Random card number between 1 and 13
+    return rand() % 13 + 1;
 }
 
 enum sekil {
