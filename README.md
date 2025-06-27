@@ -169,4 +169,9 @@ This project is for educational purposes. Feel free to use and modify the code f
 
 *"The best way to learn programming is by doing."*
 
+**Made with ❤️ by [@earkali](https://github.com/earkali)**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/earkali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/earkali)
+
 </div> 
